@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="colorGreen">#2E7D32</color>
+    <color name="colorOrange">#E65100</color>
+    <color name="background">#F0F4F8</color>
+    <color name="statusBg">#E8EEF7</color>
+    <color name="cardBg">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+</resources>

@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color cardBg
+color colorAccent
+color colorGreen
+color colorOrange
+color colorPrimary
+color statusBg
+color textPrimary
+color textSecondary
+id btnSendToServer
+id btnStartProfiling
+id cardBenchmark
+id cardDeviceInfo
+id cardLiveStatus
+id cardScores
+id progressBar
+id scrollView
+id tvBenchmark
+id tvDeviceInfo
+id tvLiveStatus
+id tvScores
+id tvStatus
+layout activity_main
+string app_name
+style Theme.DeviceProfiler

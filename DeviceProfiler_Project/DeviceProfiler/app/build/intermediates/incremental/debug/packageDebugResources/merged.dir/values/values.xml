@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#F0F4F8</color>
+    <color name="cardBg">#FFFFFF</color>
+    <color name="colorAccent">#FF6F00</color>
+    <color name="colorGreen">#2E7D32</color>
+    <color name="colorOrange">#E65100</color>
+    <color name="colorPrimary">#1565C0</color>
+    <color name="statusBg">#E8EEF7</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <string name="app_name">Device Profiler</string>
+    <style name="Theme.DeviceProfiler" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowBackground">@color/background</item>
+    </style>
+</resources>
